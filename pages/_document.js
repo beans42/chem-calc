@@ -45,7 +45,7 @@ class MyDocument extends Document {
 					<meta name='apple-mobile-web-app-title' content='Chem Calc' />
 					<meta name='application-name' content='Chem Calc' />
 					<meta name='msapplication-TileColor' content='#cdd7de' />
-					<meta name='theme-color' content='#ffffff' />
+					<meta name='theme-color' content='#000000' />
 				</Head>
 				<body>
 					<Main />
